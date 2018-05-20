@@ -1,4 +1,4 @@
-screen -dmS tor bash -c 'tor --HTTPTunnelPort 8008;exec bash'
+screen -dmS tor bash -c 'tor ;exec bash'
 echo 'unproxy'>>~/.bashrc
 torify bash -c 'head -n -1 ~/.bashrc > ~/temp ; mv ~/temp ~/.bashrc;exec bash'
 kill -9 $(pidof tor) >/dev/null 2>/dev/null
