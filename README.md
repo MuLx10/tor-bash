@@ -12,6 +12,9 @@ $ rm -rf tor-bash
 ```bash
 $ tunnel
 ```
+![](https://user-images.githubusercontent.com/23444642/40278810-d0c2c5ec-5c55-11e8-893b-ab04e4cdc94a.png)
+![screenshot from 2018-05-20 17-48-28](https://user-images.githubusercontent.com/23444642/40278833-0eadcbc2-5c56-11e8-8faf-69db5a6ad6a1.png)
+
 
 # Run tor with browser
  Point proxy to `127.0.0.1:8008` as shown
