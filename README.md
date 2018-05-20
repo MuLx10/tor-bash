@@ -17,9 +17,9 @@ $ tunnel
 
 
 # Run tor with browser
- Point proxy to `127.0.0.1:8008` as shown
+ Point proxy to `127.0.0.1:9050` as shown
  
-![proxy](https://user-images.githubusercontent.com/23444642/40278614-e4ec3b42-5c51-11e8-91ef-fcfed8a2aa81.png)
+![screenshot from 2018-05-21 01-22-40](https://user-images.githubusercontent.com/23444642/40283024-9f1bbff4-5c95-11e8-9878-489cadba5d36.png)
 
 Verify at [check](https://check.torproject.org/)
 
