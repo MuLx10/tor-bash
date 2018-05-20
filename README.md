@@ -22,3 +22,12 @@ $ tunnel
 ![proxy](https://user-images.githubusercontent.com/23444642/40278614-e4ec3b42-5c51-11e8-91ef-fcfed8a2aa81.png)
 
 Verify at [check](https://check.torproject.org/)
+
+# Other Dev Settings
+
+Change the values as per your need.
+```
+DataDirectory {HOME_FOLDER}/.tor
+HTTPSProxy YOUR_INSTITUTE_PROXY
+HTTPProxy YOUR_INSTITUTE_PROXY
+```
