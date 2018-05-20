@@ -25,7 +25,7 @@ Verify at [check](https://check.torproject.org/)
 
 # Other Dev Settings
 
-Change the values as per your need.
+Change the values as per your need in `torrc`.
 ```
 DataDirectory {HOME_FOLDER}/.tor
 HTTPSProxy YOUR_INSTITUTE_PROXY
