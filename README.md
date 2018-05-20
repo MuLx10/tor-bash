@@ -3,7 +3,10 @@
 ## Setup
 ```bash
 $ git clone https://github.com/MuLx10/tor-bash.git
+$ cd tor-bash
 $ bash install.tor.sh
+$ cd ..
+$ rm -rf tor-bash
 ```
 # Run
 ```bash
