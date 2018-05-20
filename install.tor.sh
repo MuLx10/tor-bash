@@ -36,6 +36,7 @@ kill -9 \$(pidof tor) >/dev/null 2>/dev/null
 torify bash 
 head -n -1 ~/.bashrc > ~/temp ; mv ~/temp ~/.bashrc
 killall screen 2>/dev/null >/dev/null
+kill -9 \$(pidof tor) >/dev/null 2>/dev/null
 " > tor
 
 #
