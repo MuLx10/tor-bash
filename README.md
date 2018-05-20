@@ -13,6 +13,6 @@ $ tunnel
 # Run tor with browser
  Point proxy to `127.0.0.1:8008` as shown
  
-[proxy](https://user-images.githubusercontent.com/23444642/40278614-e4ec3b42-5c51-11e8-91ef-fcfed8a2aa81.png)
+![proxy](https://user-images.githubusercontent.com/23444642/40278614-e4ec3b42-5c51-11e8-91ef-fcfed8a2aa81.png)
 
 Verify at [check](https://check.torproject.org/)
