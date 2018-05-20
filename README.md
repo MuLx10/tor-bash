@@ -17,7 +17,7 @@ $ tunnel
 
 
 # Run tor with browser
- Point proxy to `127.0.0.1:9050` as shown
+ Point SOCKS proxy to `127.0.0.1:9050` as shown
  
 ![screenshot from 2018-05-21 01-22-40](https://user-images.githubusercontent.com/23444642/40283024-9f1bbff4-5c95-11e8-9878-489cadba5d36.png)
 
