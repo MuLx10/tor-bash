@@ -42,5 +42,5 @@ kill -9 \$(pidof tor) >/dev/null 2>/dev/null
 #
 # run bash with tor 
 # 
-sudo cp tor /usr/bin/tunnel
+sudo mv tor /usr/bin/tunnel
 sudo chmod 777 /usr/bin/tunnel
