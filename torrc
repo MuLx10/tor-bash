@@ -1,16 +1,12 @@
 ControlPort 9051
-
-# set your home folder
-# DataDirectory HOME/.tor
 DataDirectory /home/nirala/.tor
-
-# your institute proxy, by default it is set at IIT KGP proxy
 HTTPSProxy 172.16.2.30:8080
 HTTPProxy 172.16.2.30:8080
+#Socks5Proxy 172.16.2.30:8080
 Log notice stdout
 ReachableAddresses *:80,*:443
 ReachableAddresses reject *:*
 ReachableAddresses reject *:*
 ReachableAddresses reject *:*
 SocksPort 9050
-HashedControlPassword 16:405C6E032DE07FF0609BADA5BA92D9863A4F309442B486924B229987F2"
+HashedControlPassword 16:405C6E032DE07FF0609BADA5BA92D9863A4F309442B486924B229987F2
