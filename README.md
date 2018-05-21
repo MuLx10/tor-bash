@@ -1,5 +1,6 @@
 # tor-bash
 ## Run proxy free internet in bash and browser
+
 ## Setup
 ```bash
 $ git clone https://github.com/MuLx10/tor-bash.git
@@ -8,7 +9,10 @@ $ bash install.tor.sh
 $ cd ..
 $ rm -rf tor-bash
 ```
+
 # Run
+
+Remove proxies exported in environment.
 ```bash
 $ tunnel
 ```
