@@ -1,5 +1,4 @@
 screen -dmS tor bash -c 'tor ;exec bash'
-echo 'unproxy'>>~/.bashrc
 torify bash 
 kill -9 $(pidof tor) >/dev/null 2>/dev/null
 killall screen 2>/dev/null >/dev/null
